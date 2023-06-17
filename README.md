@@ -25,6 +25,10 @@ This app was developed with NextJs + Typescript + Prisma, it's responsive so ple
 
 ## Screenshots
 
+📝 Diagram <br>
+
+![Shopping List - ERD de Hockey](https://github.com/Tzzent/ShoppingList/assets/86677547/aceda3ac-db73-4553-8e40-70c9bcd69cf0)
+
 🖥️ Desktop <br>
 
 ![NextDesktop1](https://github.com/Tzzent/ShoppingList/assets/86677547/22efe3ce-e264-4a34-9c72-832e72a09cc5)
