@@ -46,16 +46,15 @@ export default function Modal({
     >
       <div
         className="
-      relative
-      w-full
-      md:w-4/6
-      xl:w-1/4
-      my-6
-      mx-auto
-      h-full
-      lg:h-auto
-      md:h-auto
-      "
+        mx-5
+        relative
+        w-full
+        md:w-4/6
+        xl:w-1/4
+        my-6
+        lg:h-auto
+        md:h-auto
+        "
       >
         {/* CONTENT */}
         <div

@@ -43,6 +43,7 @@ export default function InputText({
   border-2
   border-[#BDBDBD]
   rounded-xl
+  outline-none
   p-4
   `;
 
@@ -56,7 +57,7 @@ export default function InputText({
       onBlur={() => setIsFocused(false)}
       className={`
       ${defaultStyles}
-      ${isFocused && 'outline-[#F9A109]'}
+      ${isFocused && 'border-[#F9A109]'}
       `}
     />
   )
@@ -81,7 +82,7 @@ export default function InputText({
         scrollbar-thumb-rounded-xl
         scrollbar-track-slate-500/[0.30]
         scrollbar-track-rounded-xl
-        ${isFocused && 'outline-[#F9A109]'}
+        ${isFocused && 'border-[#F9A109]'}
         `}
       />
     )
@@ -149,6 +150,7 @@ export default function InputText({
             styles={customSelectStyles}
             onFocus={() => setIsFocused(true)}
             onBlur={() => setIsFocused(false)}
+            maxMenuHeight={150}
           />
         )}
       />

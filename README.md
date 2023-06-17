@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="https://nextjs.org/" target="blank"><img src="https://github.com/Tzzent/ShoppingList/assets/86677547/a92c423b-988c-425b-94ae-df6853385788" width="400" alt="Nextjs + Prisma" /></a>
+</p>
 
-## Getting Started
+<h1 align="center">ShoppingList |  @Tzzent</h1>
 
-First, run the development server:
+<div align="center">
+  <h3>
+    <a target="_blank" href="https://shopping-list-tzzent.vercel.app/">
+      Demo 🌐
+    </a>
+  </h3>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+This app was developed with NextJs + Typescript + Prisma, it's responsive so please check it out. In addition to that, I am open to suggestions and criticism.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Characteristics
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Responsive and easy to use interface
+- You can search by item
+- You can manage your lists
+- You can add items according to a category, and if it doesn't exist then you create it 😄
+- You can give it the number of items you want, remove from the list
+- You can view the history of your listings and the top items, categories, and total number of items purchased per month
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Screenshots
 
-## Learn More
+🖥️ Desktop <br>
 
-To learn more about Next.js, take a look at the following resources:
+![NextDesktop1](https://github.com/Tzzent/ShoppingList/assets/86677547/22efe3ce-e264-4a34-9c72-832e72a09cc5)
+![NextDesktop2](https://github.com/Tzzent/ShoppingList/assets/86677547/4bf36e87-c66d-4b10-b5fd-9c7deadceabd)
+![NextDesktop3](https://github.com/Tzzent/ShoppingList/assets/86677547/600864a4-80d0-4a6b-80b8-cc4c99c28d8c)
+![NextDesktop4](https://github.com/Tzzent/ShoppingList/assets/86677547/1d8aeca6-cba9-4128-ad84-dbddddf07e2e)
+![NextDektop5](https://github.com/Tzzent/ShoppingList/assets/86677547/bfeb332c-26e6-4ebd-be4f-126c3c33d767)
+![nextDesktop6](https://github.com/Tzzent/ShoppingList/assets/86677547/6a3c439e-042d-4389-95ce-667b9f464dbb)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br>
+📲 Mobile <br><br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<div style="display: flex; justify-content: center;" align="center">
+  
+  <img src="https://github.com/Tzzent/ShoppingList/assets/86677547/624f27de-4d78-4b3b-8c16-823d969e4557" alt="Mobile-DC" width="300">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Tzzent/ShoppingList/assets/86677547/0a1c5d93-ca9e-46f0-8dad-5b7deabffed0" alt="Mobile-DC2" width="300">
 
-## Deploy on Vercel
+</div>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact 🗣️
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Instagram](https://www.instagram.com/tzzent/)
+- [Facebook](https://www.facebook.com/Tzzent/)
+- [Whatsapp](https://api.whatsapp.com/send?phone=+51900899785&text=Hola!%20Puedo%20realizar%20una%20consulta?)
